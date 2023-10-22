@@ -1,0 +1,40 @@
+/*ini adalah comment*/
+
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-image: url(motif\ daun.jpeg);
+}
+
+img {
+    width: 20%; /*ukuran gambar*/
+
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  background-color: white;
+}
+/*paragraph*/
+p {
+    color: black;
+    font-family: 'Franklin Gothic';
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    background-color: white;
+}
+p.one {
+    border-style: dotted;
+    border-width: thick;
+    padding-bottom: 20px;
+    background-color: white;
+
+}
