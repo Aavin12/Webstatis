@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: #ff0000;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: white;
+}
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+}
+p{
+  color:black;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  background-color: white;
+}
+p.dotted {
+  outline-style: dotted;
+  outline-color: red;
+  outline-width: thick;
+  padding: 5px;
+}
+li.list {
+  font-size: 34px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ol{
+  background-color: white;
+}
+div {
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0
+  }
+a:link {
+  background-color: yellow;
+}
+
